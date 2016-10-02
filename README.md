@@ -1,2 +1,2 @@
 # CoolestPlaceNearby
-find top 10 places with coolest temperature within 30 miles
+find places with  top 10 coolest temperature within 30 miles
